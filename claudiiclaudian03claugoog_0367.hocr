@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./claudiiclaudian03claugoog_0367.png"; bbox 0 0 2392 3870; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 185 1447 1083 1695">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 185 1447 1083 1695">
+     <span class='ocr_line' id='line_1_1' title="bbox 185 1447 1083 1572; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 185 1498 528 1572; x_wconf 69' lang='lat' dir='ltr'><strong>FRAGMENTVM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 555 1497 807 1570; x_wconf 63' lang='lat' dir='ltr'>memma</span> <span class='ocrx_word' id='word_1_3' title='bbox 833 1447 1083 1570; x_wconf 63' lang='lat' dir='ltr'><strong>mamm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 558 1621 702 1695; baseline -0.007 -1"><span class='ocrx_word' id='word_1_4' title='bbox 558 1621 702 1695; x_wconf 69' lang='lat' dir='ltr'>sssms,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 293 1776 967 1863">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 293 1776 967 1863">
+     <span class='ocr_line' id='line_1_3' title="bbox 293 1776 967 1863; baseline -0.003 -21"><span class='ocrx_word' id='word_1_5' title='bbox 293 1777 362 1842; x_wconf 87' lang='lat' dir='ltr'><strong>Rus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 385 1778 473 1842; x_wconf 81' lang='lat' dir='ltr'><strong>istud</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 494 1778 601 1863; x_wconf 78' lang='lat' dir='ltr'>pretio</span> <span class='ocrx_word' id='word_1_8' title='bbox 624 1783 751 1843; x_wconf 79' lang='lat' dir='ltr'><strong>constat</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 771 1830 883 1841; x_wconf 94' lang='grc'>.....</span> <span class='ocrx_word' id='word_1_10' title='bbox 902 1776 967 1841; x_wconf 87' lang='lat' dir='ltr'>vili.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1200 3870">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1200 3870">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1200 3870; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1200 3870; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
